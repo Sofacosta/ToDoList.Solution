@@ -1,0 +1,12 @@
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.dll
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.pdb
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csprojAssemblyReference.cache
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.dll
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
+/Users/sofiaacosta/Epicodus/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.pdb
