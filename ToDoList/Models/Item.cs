@@ -6,7 +6,7 @@ namespace ToDoList.Models
   {
     // properties, methods, etc. will go here.
     public string Description {get; set;}
-    private static ToDoList<Item> _instances = new List<Item> {};
+    private static List<Item> _instances = new List<Item> {};
     public Item(string description)
     {
       Description = description;
@@ -15,6 +15,10 @@ namespace ToDoList.Models
     public static List<Item> GetAll()
     {
       return _instances;
+    }
+    public static void ClearAll()
+    {
+      _instances.Clear();
     }
   }
 }
